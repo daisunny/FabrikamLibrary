@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace FabrikamLibrary
 {
-    public class Class1
-    {
-    }
+	public class Shout
+	{
+		public string AwesomeString()
+		{
+			return "Awesome!";
+		}
+	}
 }
